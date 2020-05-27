@@ -1,8 +1,6 @@
-/*1º) A UFPI realizou uma pesquisa com uma amostra 40 alunos para analisar
-quantas vezes um aluno frequenta a biblioteca por mês. Faça um algoritmo que calcula a
-frequência de respostas dos alunos. Esse programa deve ler um vetor de números inteiros
-com os valores respondidos pelos alunos e a seguir imprimir a frequência de cada número de
-acordo o exemplo a seguir.*/
+/*1º) A UFPI realizou uma pesquisa com uma amostra 40 alunos para analisa quantas vezes um aluno frequenta a biblioteca por 
+mês. Faça um algoritmo que calcula a frequência de respostas dos alunos. Esse programa deve ler um vetor de números inteiros
+com os valores respondidos pelos alunos e a seguir imprimir a frequência de cada número de acordo o exemplo a seguir.*/
 
 #include <stdio.h>
 #define SIZE 41 // irei começa pelo o número 1
