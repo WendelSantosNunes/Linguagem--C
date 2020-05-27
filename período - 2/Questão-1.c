@@ -9,21 +9,21 @@ acordo o exemplo a seguir.*/
 #define FREQUENCIA 11 // Também irei comoça pelo o número 1
 
 int main(void){
-    int res[SIZE]= { 0 }, freq[FREQUENCIA] = { 0 }, i;
     // Eu inicializei todos os array com 0
+    int res[SIZE]= { 0 }, freq[FREQUENCIA] = { 0 }, i;
+    // Peguei as respostas
     for(i = 1; i < SIZE; i++){
         printf("Digite as 40 respostas:");
         scanf("%d",&res[i]);
     }
-    // Peguei as respostas
+    // Depois eu verifiquei quantos números estão repetindos no array 
     printf("\n");
     for(i = 1; i < SIZE; i++){
         ++freq[res[i]];
     }
-    // Depois eu verifiquei quantos números estão repetindos no array 
+    // E por fim, imprimir o resultado.
     for( i = 1; i < FREQUENCIA; i++){
         printf("%d %d\n",i,freq[i]);
     }
-    // E por fim, imprimir o resultado.
     return 0;
 }
