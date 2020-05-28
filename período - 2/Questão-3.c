@@ -1,6 +1,5 @@
-/*3º) Faça um algoritmo que recebe o primeiro nome de uma pessoa com até 20 caracteres
-todo em minúsculo e imprima esse nome todo em maiúsculo com cada letra separada por
-um espaço. Por exemplo, o nome "wendel" deve ser impresso "W E N D E L" */
+/*3º) Faça um algoritmo que recebe o primeiro nome de uma pessoa com até 20 caracteres todo em minúsculo e imprima esse nome
+todo em maiúsculo com cada letra separada por um espaço. Por exemplo, o nome "wendel" deve ser impresso "W E N D E L" */
 
 #include <stdio.h> 
 #include <ctype.h> //  Essa biblioteca tem várias função de manipulação de string
