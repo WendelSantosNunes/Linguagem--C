@@ -1,7 +1,6 @@
-/*2º) Faça um algoritmo que mostra a forma que o personagem "Cebolinha" da turma da
-Mônica fala, ou seja, troca a letra "r" por "l". Esse programa deve receber uma palavra de até
-20 caracteres, realizar a referida troca e informar o número do(s) caractere(s) onde ocorre(m)
-trocas, da seguinte forma:*/
+/*2º) Faça um algoritmo que mostra a forma que o personagem "Cebolinha" da turma da Mônica fala, ou seja, troca a letra "r" 
+por "l". Esse programa deve receber uma palavra de até 20 caracteres, realizar a referida troca e informar o número do(s) 
+caractere(s) onde ocorre(m) trocas, da seguinte forma:*/
 
 #include <stdio.h>
 #define SIZE 20 //Estou definido um tamanho padrão
