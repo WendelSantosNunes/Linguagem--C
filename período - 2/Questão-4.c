@@ -1,8 +1,7 @@
-/* 4º) Faça um algoritmo para mostrar números duplicados. Use um array de subscrito único (ou
-seja, um vetor) para ler 10 números, cada um entre 10 e 100, inclusive. À medida que cada
-número for lido, imprima-o apenas se ele não for uma duplicata de um número já lido.
-Considere a "pior das hipóteses": os 10 números são diferentes. Use o menor array possível
-para resolver o problema.*/
+/* 4º) Faça um algoritmo para mostrar números duplicados. Use um array de subscrito único (ouseja, um vetor) para ler 10 
+números, cada um entre 10 e 100, inclusive. À medida que cada número for lido, imprima-o apenas se ele não for uma duplicata 
+de um número já lido. Considere a "pior das hipóteses": os 10 números são diferentes. Use o menor array possível para resolver
+o problema.*/
 
 #include <stdio.h>
 #define SIZE 10 //Define o tamanho padrão para meu array
