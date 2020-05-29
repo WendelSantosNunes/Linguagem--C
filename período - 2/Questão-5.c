@@ -1,6 +1,5 @@
-/* 5º) Faça um programa que inicializa um vetor com números pares inteiros de 2 a 20. O vetor
-deve ter a menor dimensão possível. A seguir imprima na tela esse vetor com a seguinte
-formatação:
+/* 5º) Faça um programa que inicializa um vetor com números pares inteiros de 2 a 20. O vetor deve ter a menor dimensão 
+possível. A seguir imprima na tela esse vetor com a seguinte formatação:
            Elemento                 Valor
              0                       2  
              1                       4 
